@@ -53,6 +53,8 @@
                 echo "Full Time: ".$date."<br>";
                 $date = date('Y-m-d');
                 echo "Today is Date: ".$date."<br>";
+		$date = date('l');
+                echo "Today is Date: ".$date."<br>";
                 
                 */
 
